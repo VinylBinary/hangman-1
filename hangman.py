@@ -6,7 +6,7 @@ wordls = list(word)
 solved = False
 tries = len(word)+2
 print(f'Hello. This is Hangman and you have {tries} tries: \n')
-print(word)
+# print(word)
 temp = []
 tried = []
 flag = True
